@@ -1,0 +1,5 @@
+RAG stands for Retrieval Augmented Generation.
+Embeddings convert text into numerical vectors.
+FAISS is used for efficient vector similarity search.
+Transformers use attention mechanisms.
+LangChain helps build LLM applications.
